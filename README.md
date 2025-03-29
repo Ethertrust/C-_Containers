@@ -1,7 +1,7 @@
 # C++_Containers
 Implementation of main standard C++ container classes: list, map, queue, set, stack, vector, array, multiset
 
-## Contents(#C++_Containers)
+## [Contents](#C++_Containers)
 1. [Building project](#building-project)
 
 ## [Building project](#C++_Containers)
